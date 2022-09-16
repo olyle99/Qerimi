@@ -108,41 +108,6 @@ https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1 group-title="[🇪🇺📺]KOSOVARE" tvg-logo="https://i.imgur.com/XINK7ck.png",[$]DRITA-TV
 https://monamour.agency/dritaweb008/index.m3u8|User-Agent=stream
 
-#EXTINF:-1 group-title="[🇦🇱📺]RTSH" tvg-logo="https://i.imgur.com/ZozgLG2.png",[$]RTSH SAT HD
-http://185.56.251.38:4000/play/a021/index.m3u8
-#EXTINF:-1 group-title="[🇦🇱📺]RTSH" tvg-logo="https://i.imgur.com/EpaGUeU.png",[$]RTSH 1HD
-http://host.serveri.stream:8080/freemx/free/249?|User-Agent=test963
-#EXTINF:-1 group-title="[🇦🇱📺]RTSH" tvg-logo="https://i.imgur.com/EpaGUeU.png",[$]RTSH 1
-https://tvlive.rtsh.dev/live/rtsh_1mob_pp1/playlist.m3u8|Referer=https://tv.rtsh.al/
-#EXTINF:-1 group-title="[🇦🇱📺]RTSH" tvg-logo="https://i.imgur.com/q9gq1vh.png",[$]RTSH 2HD
-https://tvlive.rtsh.dev/live/rtsh_2ott/playlist.m3u8|Referer=https://tv.rtsh.al/
-#EXTINF:-1 group-title="[🇦🇱📺]RTSH" tvg-logo="https://i.imgur.com/x5jUmXf.png",[$]RTSH 3HD
-https://tvlive.rtsh.dev/live/rtsh3ott/playlist.m3u8|Referer=https://tv.rtsh.al/
-#EXTINF:-1 group-title="[🇦🇱📺]RTSH" tvg-logo="https://i.imgur.com/YMM0Et3.png",[$]RTSH SPORT HD
-https://tvlive.rtsh.dev/live/sport_mob_ppp2/playlist.m3u8|Referer=https://tv.rtsh.al/
-#EXTINF:-1 group-title="[🇦🇱📺]RTSH" tvg-logo="https://i.imgur.com/m6uiPO7.png",[$]RTSH 24HD
-https://tvlive.rtsh.dev/live/rtsh_24_ott_p3/playlist.m3u8|Referer=https://tv.rtsh.al/
-#EXTINF:-1 group-title="[🇦🇱📺]RTSH" tvg-logo="https://i.imgur.com/jybuaeE.png",[$]RTSH SHQIP HD
-https://tvlive.rtsh.dev/live/rtsh_shqip_mob_p1/playlist.m3u8|Referer=https://tv.rtsh.al/
-#EXTINF:-1 group-title="[🇦🇱📺]RTSH" tvg-logo="https://i.imgur.com/tOeoh4o.png",[$]RTSH FILM HD
-https://tvlive.rtsh.dev/live/rtsh_film_ott/playlist.m3u8|Referer=https://tv.rtsh.al/
-#EXTINF:-1 group-title="[🇦🇱📺]RTSH" tvg-logo="https://i.imgur.com/3tnCEsE.png",[$]RTSH FEMIJE HD
-https://tvlive.rtsh.dev/live/rtsh_femije_ott/playlist.m3u8|Referer=https://tv.rtsh.al/
-#EXTINF:-1 group-title="[🇦🇱📺]RTSH" tvg-logo="https://i.imgur.com/bQSwOgf.png",[$]RTSH AGRO HD
-https://tvlive.rtsh.dev/live/rtsh_agro_ott/playlist.m3u8|Referer=https://tv.rtsh.al/
-#EXTINF:-1 group-title="[🇦🇱📺]RTSH" tvg-logo="https://i.imgur.com/7tD752v.png",[$]RTSH SHKODRA HD
-https://tvlive.rtsh.dev/live/rtsh_shkodra_mob_p1/playlist.m3u8|Referer=https://tv.rtsh.al/
-#EXTINF:-1 group-title="[🇦🇱📺]RTSH" tvg-logo="https://i.imgur.com/afkatxP.png",[$]RTSH GJIROKASTRA HD
-https://tvlive.rtsh.dev/live/rtsh_gjirokastra_ott/playlist.m3u8|Referer=https://tv.rtsh.al/
-#EXTINF:-1 group-title="[🇦🇱📺]RTSH" tvg-logo="https://i.imgur.com/LbO8uqP.png",[$]RTSH KUKESI HD
-https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8|Referer=https://tv.rtsh.al/
-#EXTINF:-1 group-title="[🇦🇱📺]RTSH" tvg-logo="https://i.imgur.com/NTrNCoG.png",[$]RTSH KORCA HD
-https://tvlive.rtsh.dev/live/rtsh_korca_ott/playlist.m3u8|Referer=https://tv.rtsh.al/
-#EXTINF:-1 group-title="[🇦🇱📺]RTSH" tvg-logo="https://i.imgur.com/QG5myxr.png",[$]RTSH PLUS HD
-https://tvlive.rtsh.dev/live/rtsh_plus_ott/playlist.m3u8|Referer=https://tv.rtsh.al/
-#EXTINF:-1 group-title="[🇦🇱📺]RTSH" tvg-logo="https://i.imgur.com/Sax1DiE.png",[$]RTSH KUVEND HD
-https://tvlive.rtsh.dev/live/rtsh_kuvendi_ott/playlist.m3u8|Referer=https://tv.rtsh.al/
-
 #EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/8pgkBrX.png",[$]TV KOPLIKU HD 
 http://212.129.1.10/live/1/1/1.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/8pgkBrX.png",[$]TV KOPLIKU
@@ -640,6 +605,14 @@ https://tvlive.rtsh.dev/live/sport_mob_ppp2/playlist.m3u8?|Referer=https://tv.rt
 http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/19593
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/a4u1sNh.png",[$]FIGHT BOX HD
 http://5.206.237.251:1288/FightBox
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/Vv65XJZ.png",[$]OVERSPORT 1HD 
+http://storeiptv.net:2095/simirtest/eRe6M94F4O/14368?
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/SlgLmre.png",[$]OVERSPORT 2HD 
+http://storeiptv.net:2095/simirtest/eRe6M94F4O/14369?
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/QOuNjbL.png",[$]OVERSPORT 3HD 
+http://storeiptv.net:2095/simirtest/eRe6M94F4O/14370?
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/EiOKygE.png",[$]OVERSPORT 4HD 
+http://storeiptv.net:2095/simirtest/eRe6M94F4O/14371?
 
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/VE0SA3i.png",[$]SUPER SPORT 1HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/47084
